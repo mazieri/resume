@@ -33,7 +33,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 ### [Experiências](#atalhos)
 
 - CELK Sistemas
-  - Mobile Engineer | Desenvolvedor Flutter
+  - Desenvolvedor Flutter
   - 09/2023 - Presente
   - Remoto | Full-time
   - Funções:
@@ -48,7 +48,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 
 
 - efemazieri.dev
-  - Desenvolvedor Freelance Flutter | Software Engineer Flutter
+  - Desenvolvedor Freelance Flutter
   - 01/2021 - Presente
   - Remoto | Freelancer
   - Funções:
@@ -59,11 +59,12 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
     - Correção de Bugs no App/package
     - Testes
     - Code Review
+    - Serviço de Consultoria
   - Habilidades: Oracle Cloud · Testes · Flutter · Appwrite · Firebase · Google Cloud Platform (GCP) · Amazon Web Services (AWS) · Dart · Metodologias Ágeis
 
 
 - Neomode S.A.
-  - Mobile Engineer Flutter | Desenvolvedor Flutter
+  - Desenvolvedor Flutter
   - 06/2022 - 01/2023
   - Remoto | Full-time
   - Funções:
@@ -77,7 +78,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 
 
 - Maktub Tech
-  - Mobile Engineer Flutter | Desenvolvedor Flutter
+  - Desenvolvedor Flutter
   - 02/2021 - 06/2021
   - Remoto | Full-time
   - Funções:
