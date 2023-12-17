@@ -31,4 +31,3 @@ for filename in os.listdir(docs):
         output_file = os.path.join(docs, output_filename)
 
         convert_md_to_docx(input_file, output_file)
-
