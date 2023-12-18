@@ -2,10 +2,8 @@ name: Convert Resume
 
 on:
   push:
-    branches:
-      - main
     tags:
-      - "v*"
+      - "**"
 
 permissions:
   contents: write
@@ -52,6 +50,8 @@ jobs:
           name: resumes
       - name: Debug
         run: tree .
+      - name: folder
+        run: ls -a
       - name: Rename resumes
         run: |
           mv docs/resume_br.md md_resume_br.md
