@@ -1,0 +1,27 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.12
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get install -y pandoc texlive-latex-base
+        pip install pypandoc
+
+    - name: Convert Docs
+      run: python main.py
