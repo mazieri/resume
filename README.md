@@ -1,4 +1,4 @@
-# [Meu CV](./assets/resume_br.md) | [My Resume](./assets/resume_en.md)
+# Meu CV | My Resume
 
 - ### [Versão em Português-BR](./assets/resume_br.md)
 
