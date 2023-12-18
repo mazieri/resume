@@ -1,5 +1,7 @@
 # Felipe Mazieri | Meu Currículo
 
+<!-- EXCLUDE - remove_init -  EXCLUDE -->
+
 ## Atalhos
 
 - [Sobre](#sobre)
@@ -10,6 +12,8 @@
 - [Contribuições Open Source](#contribuições-open-source)
 - [Habilidades](#habilidades)
 - [Idiomas](#idiomas)
+
+<!-- EXCLUDE - remove_end -  EXCLUDE -->
 
 ### [Sobre](#atalhos)
 

@@ -1,5 +1,7 @@
 # Felipe Mazieri | My Resume
 
+<!-- EXCLUDE - remove_init -  EXCLUDE -->
+
 ## Shortcuts
 
 - [About me](#about-me)
@@ -11,9 +13,11 @@
 - [Skills](#skills)
 - [Languages](#languages)
 
+<!-- EXCLUDE - remove_end -  EXCLUDE -->
+
 ### [About me](#shortcuts)
 
-I started with Delphi, went through C, Lua, Java, Python, Swift and finally stopped at Flutter.
+I started with Delphi, went through C, Lua, Java, Python, Swift and finally stopped at Dart/Flutter.
 
 I'm curious, I love to read, and I'm a fast learner. 
 
