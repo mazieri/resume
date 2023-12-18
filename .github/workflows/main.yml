@@ -1,27 +1,81 @@
-# name: Convert Markdown to PDF
+name: Convert Resume
 
-# on:
-#   push:
-#     branches:
-#       - main
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - "v*"
 
-# jobs:
-#   convert:
-#     runs-on: ubuntu-latest
+permissions:
+  contents: write
 
-#     steps:
-#     - name: Checkout repository
-#       uses: actions/checkout@v2
-
-#     - name: Set up Python
-#       uses: actions/setup-python@v2
-#       with:
-#         python-version: 3.12
-
-#     - name: Install dependencies
-#       run: |
-#         sudo apt-get install -y pandoc texlive-latex-base
-#         pip install pypandoc
-
-#     - name: Convert Docs
-#       run: python main.py
+jobs:
+  make-resumes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-java@v5
+        with:
+          python-version: 3.12
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          sudo apt-get install -y texlive-full
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v4
+        with:
+          path: "requirements.txt"
+      - name: Make resumes
+        run: python main.py
+      - name: Share resumes
+        uses: actions/upload-artifact@v3
+        with:
+          name: resumes
+          path: |
+            assets/docs/resume_br.md
+            assets/docs/resume_en.md
+            assets/docs/resume_br.pdf
+            assets/docs/resume_en.pdf
+            assets/docs/resume_br.docx
+            assets/docs/resume_en.docx
+          retention-days: 1
+  upload-resumes:
+    needs: make-resumes
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download resumes
+        uses: actions/download-artifact@v3
+        with:
+          name: resumes
+      - name: Debug
+        run: tree .
+      - name: Rename resumes
+        run: |
+          mv assets/docs/resume_br.md resume_br.md
+          mv assets/docs/resume_en.md resume_en.md
+          mv assets/docs/resume_br.pdf resume_br.pdf
+          mv assets/docs/resume_en.pdf resume_en.pdf
+          mv assets/docs/resume_br.docx resume_br.docx
+          mv assets/docs/resume_en.docx resume_en.docx
+      - name: Upload release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            resume_br.md
+            resume_en.md
+            resume_br.pdf
+            resume_en.pdf
+            resume_br.docx
+            resume_en.docx
+          body: |
+            You can choose between the following type of resume:
+            * `resume_br.md` se você quiser a versão markdown em português-br
+            * `resume_en.md` if you want the markdown in english
+            * `resume_br.pdf` se você quiser a versão pdf em português-br
+            * `resume_en.pdf` if you want the pdf in english
+            * `resume_br.docx` se você quiser a versão docx em português-br
+            * `resume_en.docx` if you want the docx in english
