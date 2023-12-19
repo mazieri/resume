@@ -24,7 +24,7 @@
 ### Como?
 
 - Atualizo os arquivos .md (sendo um em inglês e outro em pt-br)
-- Faço o push e nisso a action dispara
+- Crio a tag de versão e nisso a action dispara
 - Executando o script em python, que gera os arquivos .pdf e .docx
 
 ### Resultado
@@ -42,10 +42,10 @@
 
 - I did this project to update my CVs, in a simple and quick way
 
-### As?
+### How?
 
 - I update the .md files (one in English and the other in PT-BR)
-- I push and in that trigger the action
+- Create the version tag and in that trigger the action
 - Running the script in python, that generates the .pdf and .docx files
 
 ### Result
