@@ -40,7 +40,7 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 - CELK Sistemas
   - Mobile Engineer Flutter
   - 09/2023 - Present
-  - Remote | Full-time
+  - Remote || Full-time
   - Responsibilities:
     - App Maintenance
     - Google Play and Apple Store deploy
@@ -55,7 +55,7 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 - efemazieri.dev
   - Software Engineer
   - 01/2021 - Present
-  - Remote | Freelancer
+  - Remote || Freelancer
   - Responsibilities:
     - Create New App/package
     - App/package Maintenance
@@ -71,7 +71,7 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 - Neomode S.A.
   - Mobile Engineer Flutter
   - 06/2022 - 01/2023
-  - Remote | Full-time
+  - Remote || Full-time
   - Responsibilities:
     - Creation of Purchasing Unification Module (multiple sellers in the same cart)
     - App/SDK (package) Maintenance
@@ -85,7 +85,7 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 - Maktub Tech
   - Mobile Engineer Flutter
   - 02/2021 - 06/2021
-  - Remote | Full-time
+  - Remote || Full-time
   - Responsibilities:
     - Create Internal Work Order Management App
     - App Maintenance
@@ -99,13 +99,15 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 ### [Education](#shortcuts)
 
 - Uninove - Universidade Nove de Julho
-  - Technologist | Computer and Information Systems Security/Information AssuranceTechnologist | Computer and Information Systems Security/Information Assurance
+  - Technologist || Computer and Information Systems Security/Information AssuranceTechnologist | Computer and Information Systems Security/Information Assurance
   - 08/2017 - 12/2019
 
 ### [Projects](#shortcuts)
 
-- Personal Blog (PT-BR) | [blog.efemazieri.dev](https://blog.efemazieri.dev)
+- Personal Blog (PT-BR) || [blog.efemazieri.dev](https://blog.efemazieri.dev)
   - 09/2022 - Present
+- Automatic Resume || [mazieri/resume](https://github.com/mazieri/resume)
+  - 12/2023 - Present
 
 ### [Open Source Contributions](#shortcuts)
 
@@ -133,4 +135,4 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 ### [Languages](#shortcuts)
 
 - Portuguese (PT-BR) | Native
-- English | Limited working proficiencyLimited
+- English || Limited working proficiency
