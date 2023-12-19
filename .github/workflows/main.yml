@@ -52,31 +52,17 @@ jobs:
           name: resumes
       - name: Debug
         run: tree .
-      - name: folder
-        run: ls -a
-      - name: Rename resumes
-        run: |
-          mv docs/resume_br.md md_resume_br.md
-          mv docs/resume_en.md md_resume_en.md
-          mv docs/resume_br.pdf pdf_resume_br.pdf
-          mv docs/resume_en.pdf pdf_resume_en.pdf
-          mv docs/resume_br.docx docx_resume_br.docx
-          mv docs/resume_en.docx docx_resume_en.docx
       - name: Upload release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            resume_br.md
-            resume_en.md
             resume_br.pdf
             resume_en.pdf
             resume_br.docx
             resume_en.docx
           body: |
             You can choose between the following type of resume:
-            * `resume_br.md` se você quiser a versão markdown em português-br
-            * `resume_en.md` if you want the markdown in english
             * `resume_br.pdf` se você quiser a versão pdf em português-br
             * `resume_en.pdf` if you want the pdf in english
             * `resume_br.docx` se você quiser a versão docx em português-br
