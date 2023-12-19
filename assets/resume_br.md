@@ -39,7 +39,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 - CELK Sistemas
   - Desenvolvedor Flutter
   - 09/2023 - Presente
-  - Remoto || Full-time
+  - Remoto - Full-time
   - Funções:
     - Manutenção de App
     - Deploy na Google Play e na Apple Store
@@ -54,7 +54,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 - efemazieri.dev
   - Desenvolvedor Freelance Flutter
   - 01/2021 - Presente
-  - Remoto || Freelancer
+  - Remoto - Freelancer
   - Funções:
     - Criação de App/package
     - Manutenção de App/package
@@ -70,7 +70,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 - Neomode S.A.
   - Desenvolvedor Flutter
   - 06/2022 - 01/2023
-  - Remoto || Full-time
+  - Remoto - Full-time
   - Funções:
     - Criação de Módulo de Unificação de Compras (vários vendedores em 1 carrinho)
     - Manutenção do App/SDK (package)
@@ -84,7 +84,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 - Maktub Tech
   - Desenvolvedor Flutter
   - 02/2021 - 06/2021
-  - Remoto || Full-time
+  - Remoto - Full-time
   - Funções:
     - Criação de App Interno de Gestão de Ordens de Serviços
     - Manutenção do App
@@ -98,14 +98,14 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 ### [Educação](#atalhos)
 
 - Uninove - Universidade Nove de Julho
-  - Tecnólogo || Segurança da Informação
+  - Tecnólogo - Segurança da Informação
   - 08/2017 - 12/2019
 
 ### [Projetos](#atalhos)
 
-- Blog Pessoal || [blog.efemazieri.dev](https://blog.efemazieri.dev)
+- Blog Pessoal - [blog.efemazieri.dev](https://blog.efemazieri.dev)
   - 09/2022 - Presente
-- CV Automático || [mazieri/resume](https://github.com/mazieri/resume)
+- CV Automático - [mazieri/resume](https://github.com/mazieri/resume)
   - 12/2023 - Presente
 
 ### [Contribuições Open Source](#atalhos)
@@ -133,5 +133,5 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 
 ### [Idiomas](#atalhos)
 
-- Português (PT-BR) || Nativo
-- Inglês || Intermediário
+- Português (PT-BR) - Nativo
+- Inglês - Intermediário
