@@ -99,7 +99,7 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 ### [Education](#shortcuts)
 
 - Uninove - Universidade Nove de Julho
-  - Technologist - Computer and Information Systems Security/Information AssuranceTechnologist | Computer and Information Systems Security/Information Assurance
+  - Technologist - Computer and Information Systems Security/Information AssuranceTechnologist - Computer and Information Systems Security/Information Assurance
   - 08/2017 - 12/2019
 
 ### [Projects](#shortcuts)
@@ -134,5 +134,5 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 
 ### [Languages](#shortcuts)
 
-- Portuguese (PT-BR) | Native
+- Portuguese (PT-BR) - Native
 - English - Limited working proficiency
