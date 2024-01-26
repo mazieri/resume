@@ -37,62 +37,75 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 ### [Experiências](#atalhos)
 
 - CELK Sistemas
+  - Tech Lead Mobile
+    - 01/2024 - Presente
+    - Remoto - Full-time
+    - Funções:
+      - Manutenção de App
+      - Deploy na Google Play e na Apple Store
+      - Novas funcionalidades no App
+      - Correção de Bugs no App
+      - Testes
+      - Code Review
+      - Implementação de CI/CD
+  
+
   - Desenvolvedor Flutter
-  - 09/2023 - Presente
-  - Remoto - Full-time
-  - Funções:
-    - Manutenção de App
-    - Deploy na Google Play e na Apple Store
-    - Novas funcionalidades no App
-    - Correção de Bugs no App
-    - Testes
-    - Code Review
-    - Implementação de CI/CD
-  - Habilidades: CI/CD · Xcode · Android Studio · Flutter · Firebase · API REST · Android · iOS · Google Cloud Platform (GCP)
+    - 09/2023 - 01/2024
+    - Remoto - Full-time
+    - Funções:
+      - Manutenção de App
+      - Deploy na Google Play e na Apple Store
+      - Novas funcionalidades no App
+      - Correção de Bugs no App
+      - Testes
+      - Code Review
+      - Implementação de CI/CD
+  - Habilidades: · Flutter · CI/CD · Xcode · Android Studio · Firebase · API REST · Android · iOS · Testing · Google Cloud Platform (GCP) · Amazon Web Services (AWS)
 
 
 - efemazieri.dev
   - Desenvolvedor Freelance Flutter
-  - 01/2021 - Presente
-  - Remoto - Freelancer
-  - Funções:
-    - Criação de App/package
-    - Manutenção de App/package
-    - Deploy na Google Play e/ou Apple Store
-    - Novas funcionalidades no App/package
-    - Correção de Bugs no App/package
-    - Testes
-    - Code Review
-    - Serviço de Consultoria
+    - 01/2021 - Presente
+    - Remoto - Freelancer
+    - Funções:
+      - Criação de App/package
+      - Manutenção de App/package
+      - Deploy na Google Play e/ou Apple Store
+      - Novas funcionalidades no App/package
+      - Correção de Bugs no App/package
+      - Testes
+      - Code Review
+      - Serviço de Consultoria
   - Habilidades: Oracle Cloud · Testes · Flutter · Appwrite · Firebase · Google Cloud Platform (GCP) · Amazon Web Services (AWS) · Dart · Metodologias Ágeis
 
 
 - Neomode S.A.
   - Desenvolvedor Flutter
-  - 06/2022 - 01/2023
-  - Remoto - Full-time
-  - Funções:
-    - Criação de Módulo de Unificação de Compras (vários vendedores em 1 carrinho)
-    - Manutenção do App/SDK (package)
-    - Deploy na Google Play e Apple Store
-    - Novas Funcionalidades no App
-    - Correção de Falhas no App
-    - Revisão de Código
+    - 06/2022 - 01/2023
+    - Remoto - Full-time
+    - Funções:
+      - Criação de Módulo de Unificação de Compras (vários vendedores em 1 carrinho)
+      - Manutenção do App/SDK (package)
+      - Deploy na Google Play e Apple Store
+      - Novas Funcionalidades no App
+      - Correção de Falhas no App
+      - Revisão de Código
   - Habilidades: Testes · Flutter · Git · Firebase · Apple Products · Google Cloud Platform (GCP) · Kanban · API REST · Android · Mobile Application Development · Metodologias Ágeis
 
 
 - Maktub Tech
   - Desenvolvedor Flutter
-  - 02/2021 - 06/2021
-  - Remoto - Full-time
-  - Funções:
-    - Criação de App Interno de Gestão de Ordens de Serviços
-    - Manutenção do App
-    - Gerar App
-    - Novos recursos no App
-    - Correção de Bugs no App
-    - Testes
-    - Code Review
+    - 02/2021 - 06/2021
+    - Remoto - Full-time
+    - Funções:
+      - Criação de App Interno de Gestão de Ordens de Serviços
+      - Manutenção do App
+      - Gerar App
+      - Novos recursos no App
+      - Correção de Bugs no App
+      - Testes
+      - Code Review
   - Habilidades: Testes · Flutter · Git · API REST · Android · Scrum · Metodologias Ágeis
 
 ### [Educação](#atalhos)
