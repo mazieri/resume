@@ -38,62 +38,77 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 ### [Work Experience](#shortcuts)
 
 - CELK Sistemas
+  - Mobile Tech Lead
+    - 01/2024 - Present
+    - Remote - Full-time
+    - Responsibilities:
+      - Managing Mobile Team
+      - Mentoring
+      - App Maintenance
+      - Google Play and Apple Store deploy
+      - New features in App
+      - Bugs Correction in App
+      - Tests
+      - Code Review
+      - CI/CD Implementation
+
+
   - Mobile Engineer Flutter
-  - 09/2023 - Present
-  - Remote - Full-time
-  - Responsibilities:
-    - App Maintenance
-    - Google Play and Apple Store deploy
-    - New features in App
-    - Bugs Correction in App
-    - Tests
-    - Code Review
-    - CI/CD Implementation
-  - Skills: CI/CD · Xcode · Android Studio · Flutter · Firebase · API REST · Android · iOS · Google Cloud Platform (GCP)
+    - 09/2023 - 01/2024
+    - Remote - Full-time
+    - Responsibilities:
+      - App Maintenance
+      - Google Play and Apple Store deploy
+      - New features in App
+      - Bugs Correction in App
+      - Tests
+      - Code Review
+      - CI/CD Implementation
+  - Skills: · Flutter · CI/CD · Xcode · Android Studio · Firebase · API REST · Android · iOS · Google Cloud Platform (GCP) · Amazon Web Services (AWS)
 
 
 - efemazieri.dev
   - Software Engineer
-  - 01/2021 - Present
-  - Remote - Freelancer
-  - Responsibilities:
-    - Create New App/package
-    - App/package Maintenance
-    - Google Play and Apple Store deploy
-    - New features in App/package
-    - Bugs Correction in App/package
-    - Tests
-    - Code Review
-    - Consulting Services
+    - 01/2021 - Present
+    - Remote - Freelancer
+    - Responsibilities:
+      - Create New App/package
+      - App/package Maintenance
+      - Google Play and Apple Store deploy
+      - New features in App/package
+      - Bugs Correction in App/package
+      - Tests
+      - Code Review
+      - Consulting Services
   - Skills: Oracle Cloud · Testing · Flutter · Appwrite · Firebase · Google Cloud Platform (GCP) · Amazon Web Services (AWS) · Dart · Agile Methodologies
 
 
 - Neomode S.A.
   - Mobile Engineer Flutter
-  - 06/2022 - 01/2023
-  - Remote - Full-time
-  - Responsibilities:
-    - Creation of Purchasing Unification Module (multiple sellers in the same cart)
-    - App/SDK (package) Maintenance
-    - Google Play and Apple Store deploy
-    - New features in App
-    - Bugs Correction in App
-    - Code Review
+    - 06/2022 - 01/2023
+    - Remote - Full-time
+    - Responsibilities:
+      - Creation of Purchasing Unification Module (multiple sellers in the same cart)
+      - App/SDK (package) Maintenance
+      - Google Play and Apple Store deploy
+      - New features in App
+      - Bugs Correction in App
+      - Code Review
   - Skills: Testing · Flutter · Git · Firebase · Apple Products · Google Cloud Platform (GCP) · Kanban · API REST · Android · Mobile Application Development · Agile Methodologies
 
 
 - Maktub Tech
   - Mobile Engineer Flutter
-  - 02/2021 - 06/2021
-  - Remote - Full-time
-  - Responsibilities:
-    - Create Internal Work Order Management App
-    - App Maintenance
-    - App Deploy
-    - New features in App
-    - Bugs Correction in App
-    - Tests
-    - Code Review
+    - 02/2021 - 06/2021
+    - Remote - Full-time
+    - Responsibilities:
+      - Create Internal Work Order Management App
+      - App Maintenance
+      - App Deploy
+      - New features in App
+      - Bugs Correction in App
+      - Tests
+      - Code Review
   - Skills: Testing · Flutter · Git · API REST · Android · Mobile Application Development · Scrum · Agile Methodologies
 
 ### [Education](#shortcuts)
