@@ -38,7 +38,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 
 - CELK Sistemas
   - Tech Lead Mobile
-    - 01/2024 - Presente
+    - 01/2024 - 06/2024
     - Remoto - Full-time
     - Funções:
       - Manutenção de App
@@ -48,7 +48,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
       - Testes
       - Code Review
       - Implementação de CI/CD
-  
+
 
   - Desenvolvedor Flutter
     - 09/2023 - 01/2024

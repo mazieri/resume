@@ -19,7 +19,7 @@
 
 I started with Delphi, went through C, Lua, Java, Python, Swift and finally stopped at Dart/Flutter.
 
-I'm curious, I love to read, and I'm a fast learner. 
+I'm curious, I love to read, and I'm a fast learner.
 
 I usually study on my own in my spare time, looking to improve my knowledge and learn new technologies.
 I also study unrelated things, because I believe that all knowledge is welcome. Furthermore, I can teach and help people, even if they aren't in my area of expertise.
@@ -39,7 +39,7 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 
 - CELK Sistemas
   - Mobile Tech Lead
-    - 01/2024 - Present
+    - 01/2024 - 06/2024
     - Remote - Full-time
     - Responsibilities:
       - Managing Mobile Team
