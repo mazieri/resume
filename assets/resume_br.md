@@ -25,13 +25,9 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
 
 ### [Contato](#atalhos)
 
-- email: [eu@efemazieri.dev](mailto:eu@efemazieri.dev)
-- celular: [+55 (11) 93619-2824](tel:+5511936192824)
 - LinkedIn: [felipemazieri](https://www.linkedin.com/in/felipemazieri/)
 - GitHub: [mazieri](https://github.com/mazieri)
 - GitLab: [mazieri](https://gitlab.com/mazieri)
-- YouTube: [@efemazieri](https://www.youtube.com/@efemazieri)
-- site: [efemazieri.dev](https://efemazieri.dev/)
 - blog: [blog.efemazieri.dev](https://blog.efemazieri.dev/)
 
 ### [Experiências](#atalhos)
@@ -48,6 +44,8 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
       - Testes
       - Code Review
       - Implementação de CI/CD
+      - Coordenação do Time Mobile
+      - Mentoria
 
 
   - Desenvolvedor Flutter
@@ -76,6 +74,7 @@ Costumo estudar por conta própria nas horas vagas, buscando aprimorar os meus c
       - Correção de Bugs no App/package
       - Testes
       - Code Review
+      - Mentoria
       - Serviço de Consultoria
   - Habilidades: Oracle Cloud · Testes · Flutter · Appwrite · Firebase · Google Cloud Platform (GCP) · Amazon Web Services (AWS) · Dart · Metodologias Ágeis
 
