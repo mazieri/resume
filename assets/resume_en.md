@@ -26,13 +26,9 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
 
 ### [Contact Info](#shortcuts)
 
-- email: [eu@efemazieri.dev](mailto:eu@efemazieri.dev)
-- phone: [+55 (11) 93619-2824](tel:+5511936192824)
 - LinkedIn: [felipemazieri](https://www.linkedin.com/in/felipemazieri/)
 - GitHub: [mazieri](https://github.com/mazieri)
 - GitLab: [mazieri](https://gitlab.com/mazieri)
-- YouTube: [@efemazieri](https://www.youtube.com/@efemazieri)
-- website: [efemazieri.dev](https://efemazieri.dev/)
 - blog (PT-BR): [blog.efemazieri.dev](https://blog.efemazieri.dev/)
 
 ### [Work Experience](#shortcuts)
@@ -51,6 +47,8 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
       - Tests
       - Code Review
       - CI/CD Implementation
+      - Mentoring
+      - Mobile Team Coordination
 
 
   - Mobile Engineer Flutter
@@ -79,6 +77,7 @@ I also study unrelated things, because I believe that all knowledge is welcome. 
       - Bugs Correction in App/package
       - Tests
       - Code Review
+      - Mentoring
       - Consulting Services
   - Skills: Oracle Cloud · Testing · Flutter · Appwrite · Firebase · Google Cloud Platform (GCP) · Amazon Web Services (AWS) · Dart · Agile Methodologies
 
